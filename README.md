@@ -3,7 +3,7 @@
 - 🌱 basically, the package is supposed to crawl google search engine results and extracting metadata for a set of keywords by default return 50 results and also you can send limits in parameter.
 - 🌱 for the demo, you can check or run the index.php file on the root.
 - OR
-- ⚡ following the following info
+- ⚡ follow the following info
 - use GoogleCrawlers\SearchEngine;
 - $client = new SearchEngine();
 - $client->setEngine("google.ae");
